@@ -11,10 +11,9 @@ We provide implementations of the following optimization algorithms:
 - Variable Step BFGS Quasi-Newton method
 - Baselines: Gradient Descent (GD), Cubic Newton, Gradient-Regularized Newton, and Heavy Ball Method (HBF)
 
-## How to run
+## Run
 
-Open the test.ipynb file in Jupyter Notebook.
-
+To reproduce the experiment, please open and run the `test.ipynb` in the corresponding folder.
 ## Requirements
 
 Python 3.8.8
