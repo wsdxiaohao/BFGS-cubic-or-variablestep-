@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 16 13:18:32 2024
-
-@author: shida
-"""
-
 from Mathtools import *
 from numpy import zeros, sqrt
 import time as clock

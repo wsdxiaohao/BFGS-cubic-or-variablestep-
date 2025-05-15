@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 26 10:44:54 2025
-
-@author: shidawang
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:04:43 2024
-
-@author: shidawang
-"""
 from Mathtools import *
 #import numpy as np
 """
