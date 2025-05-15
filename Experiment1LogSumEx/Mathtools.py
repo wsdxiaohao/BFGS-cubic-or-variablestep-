@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:00:03 2024
-
-@author: shidawang
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import time as clock

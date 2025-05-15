@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:06:51 2024
-
-@author: shidawang
-"""
-
-
-
-
 from Mathtools import *
 from numpy import zeros, sqrt
 

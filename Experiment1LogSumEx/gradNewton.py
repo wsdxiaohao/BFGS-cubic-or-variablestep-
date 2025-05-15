@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:22:59 2024
-
-@author: shidawang
-"""
 from Mathtools import *
 # SR1 regularized quasi Newton
 def grad_Newton(Model, options, tol=0, maxiter=1000, check=10):

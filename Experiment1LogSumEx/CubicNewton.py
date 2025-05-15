@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:19:26 2024
 
-@author: shidawang
-"""
 
 "From Nicolas Mishenko https://github.com/konstmish/opt_methods/blob/master/optmethods/second_order/cubic.py"
 

@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 16:04:43 2024
 
-@author: shidawang
-"""
 from Mathtools import *
 #import numpy as np
 def VarStep_BFGS(Model, options, tol, maxiter=1000, check=10):
