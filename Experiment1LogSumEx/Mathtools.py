@@ -106,7 +106,7 @@ def lanorm(v):
 
 
 
-"From Nicolas Mishenko https://github.com/konstmish/opt_methods/blob/master/optmethods/second_order/cubic.py"
+"From Konstantin Mishchenko https://github.com/konstmish/opt_methods/blob/master/optmethods/second_order/cubic.py"
 
 from Mathtools import *
 
